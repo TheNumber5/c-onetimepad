@@ -10,6 +10,7 @@ How to use it:
 This will encrypt the file input.bin and save the ciphertext to the file output.bin. The key is saved to the file key.bin.
 
 To decrypt the file, use: `onetimepad -d input.bin output.bin key.bin`
+You can run `Autodecrypt.bat` to automatically decrypt all the example files from the repository.
 
 # How it works
 
