@@ -7,7 +7,7 @@
 
 //One-Time Pad encryption for files.
 //Version:v1.0, date:08/08/2023
-//https://github.com/TheNumber5/c-onetimepad
+//https://github.com/TheNumber5/onetimepad-c
 
 void xorChunkWithKey(unsigned char *data, const unsigned char *key, size_t size) {
     for (size_t i = 0; i < size; i++) {
