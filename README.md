@@ -1,5 +1,7 @@
 # One-Time Pad
 
+![Program GUI](https://github.com/TheNumber5/onetimepad-c/assets/30901594/42224027-7485-4e68-a5b6-027708f979e5)
+
 How to use it:
 
 1. Clone the repository to your computer.
