@@ -15,8 +15,9 @@ To decrypt the file, use: `onetimepad -d input.bin output.bin key.bin`
 
 You can run `Autodecrypt.bat` to automatically decrypt all the example files from the repository.
 
-# How to use the GUI
-Open the `OneTimePadGUI.py` file with Python.
+# How to use the compiled GUI
+Download the release, unzip the files into a directory, and run `OneTimePadGUI.exe`
+
 For encryption, select the input file, and then you can press "Auto new" to both output and key, and then click the encrypt/decrypt button.
 
 For decryption, select the input, output, and key file selectively.
